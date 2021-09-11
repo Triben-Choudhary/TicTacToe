@@ -16,3 +16,5 @@ Or edit the `start` script directly:
 ```
 parcel index.html -p 3000
 ```
+
+Hosted in https://bit.ly/toetactic
